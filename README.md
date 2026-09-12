@@ -236,4 +236,4 @@ This repository serves as the official landing page for PrimoPDF. The software i
 **Get the most recent version of PrimoPDF today!**
 
 ---
-**Last updated:** 2026-09-12 01:01:16 UTC
+**Last updated:** 2026-09-12 07:05:48 UTC
